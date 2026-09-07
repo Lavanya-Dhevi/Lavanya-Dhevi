@@ -75,6 +75,7 @@ Deep learning-based image classification system for detecting tomato leaf diseas
 - React frontend
 
 **Tech:** Python | TensorFlow | Keras | CNN | Transfer Learning | FastAPI
+
 🔗 [View Project](https://github.com/Lavanya-Dhevi/tomato-disease-detection)
 
 ### ⚙️ Condition-Based Monitoring System
