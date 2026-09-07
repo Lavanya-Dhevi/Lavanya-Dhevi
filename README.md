@@ -167,9 +167,9 @@ TF-IDF | Flask | Streamlit
 
 ## 📫 Connect with me
 
-💼 [LinkedIn](YOUR_LINKEDIN_URL)
+💼 [LinkedIn](https://www.linkedin.com/in/lavanya-dhevi/)
 
-📧 [Email](mailto:YOUR_EMAIL)
+📧 [Email](mailto:lavanyadhevi.off@gmail.com)
 
 ---
 
