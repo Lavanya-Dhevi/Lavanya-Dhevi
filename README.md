@@ -133,8 +133,6 @@ payment methods, and peak travel periods.
 
 🔗 [View Project](...)
 
----
-
 ### 📄 Smart Resume Analyzer
 
 NLP-based application that compares resumes with job descriptions
