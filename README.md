@@ -112,7 +112,7 @@ products, payments, and reviews.
 
 **Tech:** Power BI | Power Query | DAX | Data Modeling | Data Visualization
 
-🔗 [View Project](...)
+🔗 [View Project](https://github.com/Lavanya-Dhevi/Brazilian-Ecommerce-PowerBI)
 
 ### 🚕 NYC Taxi Data Analytics
 Interactive Power BI dashboard analyzing NYC Yellow Taxi trip data to identify patterns in demand, revenue, tri distance, 
