@@ -75,7 +75,7 @@ Deep learning-based image classification system for detecting tomato leaf diseas
 - React frontend
 
 **Tech:** Python | TensorFlow | Keras | CNN | Transfer Learning | FastAPI
-🔗 [View Project]
+🔗 [View Project](https://github.com/Lavanya-Dhevi/tomato-disease-detection)
 
 ### ⚙️ Condition-Based Monitoring System
 Machine learning-based system for monitoring equipment health using multi-axis vibration sensor data.
@@ -93,7 +93,7 @@ Machine learning-based system for monitoring equipment health using multi-axis v
 
 **Tech:** Python | Scikit-learn | XGBoost | TensorFlow | FastAPI | React | Docker
 
-🔗 [View Project](...)
+🔗 [View Project](https://github.com/Lavanya-Dhevi/CBM-System-using-Machine-Learning)
 
 ### 🛒 Brazilian E-Commerce Analytics
 Interactive Power BI dashboard developed using the Brazilian E-Commerce Public Dataset to analyze sales, Customers,
