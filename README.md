@@ -131,7 +131,7 @@ payment methods, and peak travel periods.
 
 **Tech:** Power BI | Power Query | DAX | Data Modeling | Data Visualization
 
-🔗 [View Project](...)
+🔗 [View Project](https://github.com/Lavanya-Dhevi/NYC-Yellow-Taxi-PowerBI)
 
 ### 📄 Smart Resume Analyzer
 
